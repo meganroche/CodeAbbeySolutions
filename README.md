@@ -1,6 +1,6 @@
 # Code Abbey Solutions
 
-<h2> CodeAbbey Solutions: </h2>
+<h2> Table of Contents: </h2>
 
 <p>
   <ul>
