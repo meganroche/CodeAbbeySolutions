@@ -13,8 +13,12 @@
          <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/SumLoop.java" target="_blank" > Java Solution </a> </li> <br>
          
    <li> <a href= "http://www.codeabbey.com/index/task_view/sums-in-loop" target="_blank" > Problem 3: </a> "Sums in Loop" <br>
-          for a given amount of loops we will sum the following pairs and print the outcome <br>
+          For a given amount of loops we will sum the following pairs and print the outcome <br>
          <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/SumsLoop.java" target="_blank" > Java Solution </a> </li> <br>
+     
+   <li> <a href= "http://www.codeabbey.com/index/task_view/min-of-two" target="_blank" > Problem 4: </a> "Minimum of Two" <br>
+          For a given amount of loops we will print the minimum of the following pairs <br>
+         <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/MinimumTwo.java" target="_blank" > Java Solution </a> </li> <br>
     
   </ul>
  </p>
