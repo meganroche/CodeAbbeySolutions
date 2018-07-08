@@ -63,6 +63,12 @@
 <li> <a href= "http://www.codeabbey.com/index/task_view/vowel-count" target="_blank" > Problem 20: </a> <b> "Vowel Count" </b> <br> Check whether brackets are in correct sequence <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/VowelCount.java" target="_blank" > Java Solution </a> </li> <br>
 
 <li> <a href= "http://www.codeabbey.com/index/task_view/array-counters" target="_blank" > Problem 21: </a> <b> "Array Counters" </b> <br> Here is an array of length M with numbers in the range 1 ... N, where N is less than or equal to 20. You are to go through it and count how many times each number is encountered.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/ArrayCounters.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/two-printers" target="_blank" > Problem 22: </a> <b> "Two Printers" </b> <br> Using two printers working together that print at different speeds, determine the shortest amount of time required to print a document.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/TwoPrinters.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/bubble-in-array" target="_blank" > Problem 23: </a> <b> "Bubble in Array" </b> <br> Swap values in an array of numbers so that if a number is greater than the one before it their places are switched. Then display the amount of swaps made and the checksum of the final solution.   <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/BubbleArray.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/neumanns-random-generator" target="_blank" > Problem 24: </a> <b> "Neumann's Random Generator" </b> <br> You will be given initial numbers for several sequences. For each of them report the number of iterations needed to come to repetition using Neumann's Random Generator.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/NeumannsRG.java" target="_blank" > Java Solution </a> </li> <br>
   </ul>
  </p>
 
