@@ -56,7 +56,7 @@
  <li> <a href= "http://www.codeabbey.com/index/task_view/array-checksum" target="_blank" > Problem 17: </a> <b> "Array Checksum" </b> <br> Checksums are small values calculated from big amount of data to test whether data are consistent, i.e. whether they contain errors <br>
         <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/CheckSum.java" target="_blank" > Java Solution </a> </li> <br>
         
-  
+  <li> <a href= "http://www.codeabbey.com/index/task_view/square-root" target="_blank" > Problem 18: </a> <b> "Square Root" </b> <br> find the square root using Herons Method <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/SquareRoot.java" target="_blank" > Java Solution </a> </li> <br>
     
   </ul>
  </p>
