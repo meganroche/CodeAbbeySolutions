@@ -45,6 +45,20 @@
         
  <li> <a href= "http://www.codeabbey.com/index/task_view/modulo-and-time-difference" target="_blank" > Problem 12: </a> "Modulo and time difference" <br> Calculate the difference in days, hours, minutes, and seconds between two times <br>
         <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/ModuloTime.java" target="_blank" > Java Solution </a> </li> <br>
+        
+ <li> <a href= "http://www.codeabbey.com/index/task_view/weighted-sum-of-digits" target="_blank" > Problem 13: </a> "Weighted sum of digits" <br> Calculate the weighted sum of digits <br>
+        <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/WeightSum.java" target="_blank" > Java Solution </a> </li> <br>
+        
+ <li> <a href= "http://www.codeabbey.com/index/task_view/modular-calculator" target="_blank" > Problem 14: </a> "Modular Calculator" <br> Find the remainder of the result of all operations applied sequentially (starting with initial number) divided by the last number. <br>
+        <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/ModularCalc.java" target="_blank" > Java Solution </a> </li> <br>
+        
+ <li> <a href= "http://www.codeabbey.com/index/task_view/maximum-of-array" target="_blank" > Problem 15: </a> "Maximum of array" <br> Input data will give you exactly 300 numbers in a single line. Answer should contain maximum and minimum of these values, separated by space <br>
+        <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/MaximumArray.java" target="_blank" > Java Solution </a> </li> <br>
+ 
+ <li> <a href= "http://www.codeabbey.com/index/task_view/average-of-array" target="_blank" > Problem 16: </a> "Average of an array" <br> You will be given several arrays, for each of which you are to find an average value. 0s do not count. All answers rounded. <br>
+        <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/AvgArray.java" target="_blank" > Java Solution </a> </li> <br>
+        
+  
     
   </ul>
  </p>
