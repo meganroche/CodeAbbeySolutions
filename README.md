@@ -88,6 +88,12 @@
 
 <li> <a href= "http://www.codeabbey.com/index/task_view/savings-calculator" target="_blank" > Problem 35: </a> <b> "Savings Calculator" </b> <br> Calculate how many years it will take to reach each monetary goal using a start amount, end amount, and interest rate.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/SavingsCalc.java" target="_blank" > Java Solution </a> </li> <br>
 
+<li> <a href= "http://www.codeabbey.com/index/task_view/median-of-three" target="_blank" > Problem 41: </a> <b> "Savings Calculator" </b> <br> Calculates the median of three given numbers.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/MedianThree.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/dice-rolling" target="_blank" > Problem 43: </a> <b> "Dice Rolling" </b> <br> Convert values with floating point to one of six integer numbers: from 1 to 6.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/DiceRoll.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/collatz-sequence" target="_blank" > Problem 48: </a> <b> "Collatz sequence" </b> <br> Run each number through the Collatz Sequence and determine how many times it must be processed before it reaches the number "1" <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/Collatz.java" target="_blank" > Java Solution </a> </li> <br>
+
   </ul>
  </p>
 
