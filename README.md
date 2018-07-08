@@ -40,6 +40,12 @@
  <!--This is not the right link to the java solution it needs to be uploaded into github-->
  <li> <a href= "http://www.codeabbey.com/index/task_view/linear-function" target="_blank" > Problem 10: </a> "Linear Function"  <br> A program that implements linear function logic <br>
         <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/ArithmeticProgression.java" target="_blank" > Java Solution </a> </li> <br>
+        
+ <li> <a href= "http://www.codeabbey.com/index/task_view/sum-of-digits" target="_blank" > Problem 11: </a> "Sum of Digits" <br> Find the sum of (A*B) + C and then find the sum of that sum's digits for each line <br>
+        <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/SumDigits.java" target="_blank" > Java Solution </a> </li> <br>
+        
+ <li> <a href= "http://www.codeabbey.com/index/task_view/modulo-and-time-difference" target="_blank" > Problem 12: </a> "Modulo and time difference" <br> Calculate the difference in days, hours, minutes, and seconds between two times <br>
+        <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/ModuloTime.java" target="_blank" > Java Solution </a> </li> <br>
     
   </ul>
  </p>
