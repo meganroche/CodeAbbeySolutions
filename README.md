@@ -60,6 +60,9 @@
   
  <li> <a href= "http://www.codeabbey.com/index/task_view/square-root" target="_blank" > Problem 19: </a> <b> "Matching Brackets" </b> <br> Check whether brackets are in correct sequence <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/MatchingBrackets.java" target="_blank" > Java Solution </a> </li> <br>
     
+<li> <a href= "http://www.codeabbey.com/index/task_view/vowel-count" target="_blank" > Problem 20: </a> <b> "Vowel Count" </b> <br> Check whether brackets are in correct sequence <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/VowelCount.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/array-counters" target="_blank" > Problem 21: </a> <b> "Array Counters" </b> <br> Here is an array of length M with numbers in the range 1 ... N, where N is less than or equal to 20. You are to go through it and count how many times each number is encountered.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/ArrayCounters.java" target="_blank" > Java Solution </a> </li> <br>
   </ul>
  </p>
 
