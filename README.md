@@ -53,6 +53,9 @@
  <li> <a href= "http://www.codeabbey.com/index/task_view/average-of-array" target="_blank" > Problem 16: </a> <b> "Average of an array" </b> <br> You will be given several arrays, for each of which you are to find an average value. 0s do not count. All answers rounded. <br>
         <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/AvgArray.java" target="_blank" > Java Solution </a> </li> <br>
         
+ <li> <a href= "http://www.codeabbey.com/index/task_view/array-checksum" target="_blank" > Problem 17: </a> <b> "Array Checksum" </b> <br> Checksums are small values calculated from big amount of data to test whether data are consistent, i.e. whether they contain errors <br>
+        <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/CheckSum.java" target="_blank" > Java Solution </a> </li> <br>
+        
   
     
   </ul>
