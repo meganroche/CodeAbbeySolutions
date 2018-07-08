@@ -69,6 +69,25 @@
 <li> <a href= "http://www.codeabbey.com/index/task_view/bubble-in-array" target="_blank" > Problem 23: </a> <b> "Bubble in Array" </b> <br> Swap values in an array of numbers so that if a number is greater than the one before it their places are switched. Then display the amount of swaps made and the checksum of the final solution.   <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/BubbleArray.java" target="_blank" > Java Solution </a> </li> <br>
 
 <li> <a href= "http://www.codeabbey.com/index/task_view/neumanns-random-generator" target="_blank" > Problem 24: </a> <b> "Neumann's Random Generator" </b> <br> You will be given initial numbers for several sequences. For each of them report the number of iterations needed to come to repetition using Neumann's Random Generator.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/NeumannsRG.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/linear-congruential-generator" target="_blank" > Problem 25: </a> <b> "Linear Congruential Generator" </b> <br> Generate the Nth number for each set of input ran through the Linear Congruential Generator. <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/LCG.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/greatest-common-divisor" target="_blank" > Problem 26: </a> <b> "Greatest Common Divisor" </b> <br> Find the least common multiplier and greater common divisor for every pair of numbers. <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/GCD.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/bubble-sort" target="_blank" > Problem 27: </a> <b> "Bubble Sort" </b> <br> Use the bubble sort method, then calculate the number of swaps and passes used in the sorting. <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/BubbleSort.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/body-mass-index" target="_blank" > Problem 28: </a> <b> "Body Mass Index" </b> <br> Body Mass Index Calculator that produces either under, normal, over, obese output.<br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/BMI.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/sort-with-indexes" target="_blank" > Problem 29: </a> <b> "Sort with Indexes" </b> <br> Sort a given array of numbers and then for each value (in non-decreasing order) its initial index should be printed. <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/SortIndexes.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/reverse-string" target="_blank" > Problem 30: </a> <b> "Reverse String" </b> <br> Program that reverses a string. <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/ReverseString.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/rotate-string" target="_blank" > Problem 31: </a> <b> "Rotate String" </b> <br> Rotate string by K characters means to cut these characters from the beginning and transfer them to the end. If K is negative, characters, on contrary should be transferred from the end to the beginning. <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/RotateString.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/parity-control" target="_blank" > Problem 33: </a> <b> "Parity Control" </b> <br> Program to check each letter and remove those which are corrupted. Others should be converted to normal ASCII and printed as characters. <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/ParityControl.java" target="_blank" > Java Solution </a> </li> <br>
+
+<li> <a href= "http://www.codeabbey.com/index/task_view/savings-calculator" target="_blank" > Problem 35: </a> <b> "Savings Calculator" </b> <br> Calculate how many years it will take to reach each monetary goal using a start amount, end amount, and interest rate.  <br> <a href= "https://www.github.com/meganroche/CodeAbbeySolutions/tree/master/Java/SavingsCalc.java" target="_blank" > Java Solution </a> </li> <br>
+
   </ul>
  </p>
 
